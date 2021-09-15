@@ -19,5 +19,5 @@ def sorting(arr):
 print(sorting([2,1,4,10,23,21,3,4,5,0,6,7]))
 
 /*
-jaslslaslasldsd
+Algo:
 */
